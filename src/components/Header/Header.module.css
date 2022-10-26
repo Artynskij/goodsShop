@@ -1,0 +1,124 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    /* margin: 0px 0 0px 15px; */
+    min-width: 1000px;
+    max-width: 1400px;
+    position: fixed;
+    background: #D1D0E5;
+
+    padding: 3px 0;
+    z-index: 10;
+}
+
+.container_logo {
+    background: #FFF;
+    width: 90px;
+    height: 80px;
+    /* margin-left: 15px; */
+    background: #D1D0E5;
+}
+
+.logo {
+    width: 100%;
+    height: 100%;
+    border-radius: 30%;
+    /* background: rgb(198, 186, 186); */
+}
+
+.container_find {
+    width: 60%;
+    /* margin-left: 120px; */
+    position: relative;
+}
+
+.find {
+    margin-top: 15px;
+    width: 700px;
+    height: 30px;
+}
+
+.container_login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* margin-left: 50px;
+    margin-top: 27px; */
+    /* padding: 10px; */
+    /* margin-left: 20px; */
+}
+
+.avatar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: black;
+    /* margin-top: 10px; */
+    cursor: default;
+    color: white;
+    font-size: 20px;
+}
+.container_login:hover .back {
+    opacity: 1;
+}
+
+
+
+.back {
+    opacity: 0;
+    
+    transition: 0.5s;
+}
+
+
+
+
+.container_basket {
+    /* margin-left: 50px; */
+}
+
+.searchGoods {
+    display: flex;
+}
+
+.container_dropdownGoods {
+    position: absolute;
+    top: 200%;
+    left: 1;
+    height: 1px;
+    overflow: hidden;
+    width: 1px;
+}
+
+.container_dropdownGoodsActive {
+    position: absolute;
+    height: auto;
+    width: 100%;
+}
+
+.dropdownGoods {
+    background: #d5d4e6;
+
+    padding: 5px;
+    border: 1px solid black;
+    font-size: 14px;
+    /* color: rgb(27, 2, 222); */
+    height: auto;
+}
+
+.dropdownGoods:hover {
+    background: #8d8c9b;
+    /* color: rgb(30, 0, 255); */
+}
+
+.dropdownGoodsActive {
+
+    border: 2px solid black;
+    height: auto;
+    width: 100%;
+}

@@ -1,0 +1,43 @@
+.registration_container {
+    background: #D1D0E5;
+    min-height: 700px;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.container_logo {
+    /* background: #FFF;
+    width: 120px;
+    height: 90px; */
+    /* margin-left: 15px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.logo {
+    border-radius: 30%;
+    margin-top: 20px;
+    width: 120px;
+    height: 120px;
+}
+
+.modal__content_text {
+    padding: 5px 0;
+    margin: 10px 0;
+    font-size: 16px;
+    font-weight: 600;
+    border-bottom: 2px solid #1890ff;
+}
+
+.formTransition {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

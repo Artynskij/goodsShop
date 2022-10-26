@@ -1,0 +1,18 @@
+.center {
+    align-items: center;
+}
+
+.bg {
+    background: #000;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    background: #eff5e4;
+    width: 100%;
+
+}
+.pb20px{
+    padding-bottom: 20px;
+}

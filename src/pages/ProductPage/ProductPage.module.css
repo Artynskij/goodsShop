@@ -1,0 +1,71 @@
+.test {
+  color: green;
+}
+
+.container {
+  width: 100%;
+  padding: 15px;
+  display: flex;
+  min-height: 700px;
+}
+
+.container_img {
+  height: 400px;
+  width: 600px;
+}
+
+.img {
+  height: 100%;
+  width: 100%;
+}
+
+.container_discription {
+  padding: 15px;
+}
+
+.discription_price {
+  font-size: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.discription_discription {
+  max-width: 500px;
+  margin-top: 15px;
+}
+
+.putbasket {
+  border: 2px solid black;
+  box-shadow: inset 0 -2px 0 0 rgb(0 0 0 / 20%);
+  font-size: 15px;
+  font-weight: 700;
+}
+
+
+.toggleTakeBtn {
+
+  font-weight: 700;
+  color: white;
+  text-decoration: none;
+  padding: .8em 1em calc(.8em + 3px);
+  border-radius: 3px;
+  background: rgb(64,199,129);
+  box-shadow: 0 -3px rgb(53,167,110) inset;
+  transition: 0.2s;
+  cursor: pointer;
+}
+.toggleTakeBtn:hover {
+  background: rgb(53, 167, 110); 
+}
+
+.toggleRemoveBtn {
+  font-weight: 700;
+  color: white;
+  text-decoration: none;
+  padding: .8em 1em calc(.8em + 3px);
+  border-radius: 3px;
+ 
+  transition: 0.2s;
+  background: rgb(103, 114, 108);
+  /* box-shadow: 0 3px rgb(35, 37, 36) inset; */
+}

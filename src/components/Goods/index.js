@@ -1,0 +1,1 @@
+export { GoodsCategory } from "./GoodsCategory"

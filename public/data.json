@@ -1,0 +1,519 @@
+[
+    {
+      "label": "Игрушки",
+      "data": [
+        {
+          "id": 1,
+          "category_type": "Toys",
+          "name": "Marvel",
+          "price": 199,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 2,
+          "category_type": "Books",
+          "name": "HotWheels",
+          "price": 299,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 3,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 4,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 5,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 6,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        }
+      ]
+    },
+    {
+      "label": "Книги",
+      "data": [
+        {
+          "id": 1,
+          "category_type": "Toys",
+          "name": "Marvel",
+          "price": 199,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 2,
+          "category_type": "Books",
+          "name": "HotWheels",
+          "price": 299,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 3,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 4,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 5,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 6,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        }
+      ]
+    },
+    {
+      "label": "Спорт",
+      "data": [
+        {
+          "id": 1,
+          "category_type": "Toys",
+          "name": "Marvel",
+          "price": 199,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 2,
+          "category_type": "Books",
+          "name": "HotWheels",
+          "price": 299,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 3,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 4,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 5,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 6,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        }
+      ]
+    },
+    {
+      "label": "Косметика",
+      "data": [
+        {
+          "id": 1,
+          "category_type": "Toys",
+          "name": "Marvel",
+          "price": 199,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 2,
+          "category_type": "Books",
+          "name": "HotWheels",
+          "price": 299,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 3,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 4,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 5,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 6,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        }
+      ]
+    },
+    {
+      "label": "Активность",
+      "data": [
+        {
+          "id": 1,
+          "category_type": "Toys",
+          "name": "Marvel",
+          "price": 199,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 2,
+          "category_type": "Books",
+          "name": "HotWheels",
+          "price": 299,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 3,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 4,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 5,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 6,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        }
+      ]
+    },
+    {
+      "label": "Детям",
+      "data": [
+        {
+          "id": 1,
+          "category_type": "Toys",
+          "name": "Marvel",
+          "price": 199,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 2,
+          "category_type": "Books",
+          "name": "HotWheels",
+          "price": 299,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 3,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 4,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 5,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 6,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        }
+      ]
+    },
+    {
+      "label": "Сувениры",
+      "data": [
+        {
+          "id": 1,
+          "category_type": "Toys",
+          "name": "Marvel",
+          "price": 199,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 2,
+          "category_type": "Books",
+          "name": "HotWheels",
+          "price": 299,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 3,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 4,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 5,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 6,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        }
+      ]
+    },
+    {
+      "label": "Для дома",
+      "data": [
+        {
+          "id": 1,
+          "category_type": "Toys",
+          "name": "Marvel",
+          "price": 199,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 2,
+          "category_type": "Books",
+          "name": "HotWheels",
+          "price": 299,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 3,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 4,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 5,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 6,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        }
+      ]
+    },
+    {
+      "label": "Сувениры",
+      "data": [
+        {
+          "id": 1,
+          "category_type": "Toys",
+          "name": "Marvel",
+          "price": 199,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 2,
+          "category_type": "Books",
+          "name": "HotWheels",
+          "price": 299,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 3,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 4,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 5,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 6,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        }
+      ]
+    },
+    {
+      "label": "Парфюмерия",
+      "data": [
+        {
+          "id": 1,
+          "category_type": "Toys",
+          "name": "Marvel",
+          "price": 199,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 2,
+          "category_type": "Books",
+          "name": "HotWheels",
+          "price": 299,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 3,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 4,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 5,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 6,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        }
+      ]
+    },
+    {
+      "label": "Чёрный рынок",
+      "data": [
+        {
+          "id": 1,
+          "category_type": "Toys",
+          "name": "Marvel",
+          "price": 199,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 2,
+          "category_type": "Books",
+          "name": "HotWheels",
+          "price": 299,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 3,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 4,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 5,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        },
+        {
+          "id": 6,
+          "category_type": "Sport",
+          "name": "Микки",
+          "price": 399,
+          "img": "https://source.unsplash.com/random"
+        }
+      ]
+    }
+  ]

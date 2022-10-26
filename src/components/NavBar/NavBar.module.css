@@ -1,0 +1,11 @@
+.container {
+    width: 17%;
+    background: #D1D0E5;
+    transition: all 5s;
+}
+
+.hover:hover {
+    
+    border: 2px solid rgb(58, 75, 156);
+    box-shadow: 3px black;
+}
